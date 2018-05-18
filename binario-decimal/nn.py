@@ -50,5 +50,6 @@ teste = np.array([[0],
                   [1]])
 
 r = habilidades_cozinheiros.dot(teste)
+print(r)
 print(np.argmax(r, axis=0) + 1)
 
