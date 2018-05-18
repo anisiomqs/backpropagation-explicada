@@ -31,7 +31,7 @@ Introdução
 ===
 
 (Deixar todos na mesma página)
-* Não dá pra falar só de backprop, tem q ter uma noção geral de redes neurais
+* Não dá pra falar só de backpro	p, tem q ter uma noção geral de redes neurais
 
 ---
 
@@ -91,6 +91,8 @@ Abordagem tradicional
 * ...
 * Como tudo isso se encaixa? Por que é necessário?
 
+Lembrar do baseball
+
 ---
 
 
@@ -124,6 +126,8 @@ Analogia
 * Se estivermos falando de computação cognitiva (visão), os pixels podem ser os fotoreceptores do olho
 * Se estivermos falando de audição, a entrada da rede pode ser as diferentes frequências captadas pelo ouvido
 * Mas quando entramos na parte do aprendizado, ninguém sabe como realmente ocorre
+
+* Metodo ADEPT
 
 ---
 
@@ -165,6 +169,11 @@ Chef (3)
 * Repete por x vezes
 
 ---
+
+Codificação
+===
+
+Apresentar fonte e codificar a propagação reversa numa rede neural de 6 camadas q vai reconhecer o Loki e o Gauss.
 
 
 
